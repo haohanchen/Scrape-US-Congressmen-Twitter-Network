@@ -1,4 +1,4 @@
-# Scraper using Twitter API
+# Mining the Twitter Network of US Congressmen
 
 The project scrapes lists of friends and followers of US Congressmen (as of 2017) and calculates their ideological positions using Correspondence Analysis.
 
